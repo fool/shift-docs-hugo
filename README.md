@@ -20,6 +20,5 @@ built using:
 3. clone theme:  `git submodule update --init --recursive`
 4. [install hugo](http://gohugo.io/getting-started/quick-start/#step-1-install-hugo)
 5. build site: `hugo`
-6. you can browse in two ways.  Simpler, one-step:
-   1. (for OSX:) `cd public && open index.html`
-   2. (for anyone):  `hugo serve` and then open http://localhost:1313 in your browser
+6. start server for site: `hugo serve`
+7. browse at [http://localhost:1313](http://localhost:1313) in your browser
