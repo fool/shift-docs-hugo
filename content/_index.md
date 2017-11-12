@@ -12,7 +12,9 @@ We're looking to edit this before going live with it, but you can find the exist
 
 ## TODO
 
-### Need to port the content in:
+### Need to port 
+
+This is a first-pass listing of existing content that we'd like to save
 
 - mission statement
 - pedalpalooza + posters
@@ -24,11 +26,13 @@ We're looking to edit this before going live with it, but you can find the exist
 ### Need to create content 
 - what is pedalpalooza and how to pedalpalooze
 - associated organizations and groups
-  - Street Trust, puddlecycle, shift calendar devs, TNR/Portland Urban bike, dropouts, MCBF, WNBR, etc
+  - Street Trust, puddlecycle, shift calendar devs, TNR/Portland Urban bike, dropouts, MCBF, WNBR, umbrella, canvas dreams, etc.
 - how to participate
   - how to lead a ride
   - ride ridership guide
   - volunteerism for shift
+- Contacts
+  - facebook, twitter, listserv
 
 ## Contributing
 
