@@ -4,7 +4,7 @@ date: 2017-11-12T23:33:40-08:00
 draft: false
 ---
 
-!(images/mcbf_entry_banner.jpg?classes=shadow "mcbf header banner")
+![mcbf header banner](/images/mcbf_entry_banner.jpg?classes=shadow&align=center)
 The Multnomah County Bike Fair aka "Bike Fair" has taken place almost annually since 2007 in beautiful Portland, Oregon usually as the finale of [Pedalpalooza](/to-create/pedalpalooza).
 
 It's a family friendly bikey event open to the public, usually featuring events (slow races, bike jousting), entertainment (live music, competitions), and sometimes vendors and beer.  It's open to all, and is usually family friendly.
@@ -24,7 +24,7 @@ Wanna help make this event awesome again?  2018 participants sought - email [One
 
 
 ### Past Organizers
-Noting just some of the known organizers (more to be added) who put their energies and talents into making MCBF what it was, and mayhaps be again... 
+Noting just some of the known organizers who put their energies and talents into making MCBF what it was, and mayhaps be again... 
 
 * **Recruitment**:  Lillian Karabaic
 * **Volunteer Coordinator**:  Steph Routh, VJ Beauchamp
