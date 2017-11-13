@@ -14,12 +14,16 @@ We're looking to edit this before going live with it, but you can find the exist
 
 ### Need to port 
 
-- history (biz meetings, images, ride reports, etc)
+- history (biz meeting notes, images, ride reports, etc)
+- xmas carols + stickers + logos
+- ride leadership primer + cartoon
 
 ### Needs review
 - rest of the "stuff" on the shift website
 - wnbr stuff?
 - safety?
+- visitor info?
+- education page?
 - get lit (probably ok to go away)
 
 ### Need to create content 
