@@ -23,7 +23,7 @@ Each year since 2004 we've commissioned art from local artists to use for poster
 # 2008 - Tiago Dejerk
 ![2008 poster](/images/uploads/pp2008full.jpg?classes=shadow)
 
-# 2009
+# 2009 - Justa L
 ![2009 poster](/images/uploads/pp2009full.jpg?classes=shadow)
 
 # 2010
