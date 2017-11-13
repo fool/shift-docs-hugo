@@ -17,7 +17,7 @@ Each year since 2004 we've commissioned art from local artists to use for poster
 # 2006 - [Shawn Granton](http://id.sito.org/sgr/)
 ![2006 poster](/images/uploads/pp2006colorbig.jpg?classes=shadow)
 
-# 2007 - Gabriel Amadeus Tiller
+# 2007 - [Gabriel Amadeus Tiller](http://gabrielamadeys.com)
 ![2007 poster](/images/uploads/pp2007full.jpg?classes=shadow)
 
 # 2008 - Tiago Dejerk
