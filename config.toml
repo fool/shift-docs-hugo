@@ -3,12 +3,11 @@ languageCode = "en-us"
 title = "shift2bikes website reboot"
 theme = "hugo-theme-learn"
 
-editURL = "/admin"
-description = "Shift website reboot documents"
-disableAssetsBusting = true # netlify doesn't need that
-
-
-
+[params]
+  editURL = "/admin/#/collections/"
+  description = "Shift website reboot documents"
+  disableAssetsBusting = true # netlify doesn't need that
+  enableGitInfo = true
 
 
 # For search functionnality
