@@ -8,7 +8,7 @@ This repository has a hugo site to help navigate this content, but all content i
 
 ## Existing content scraped with minimal editing
 
-We're looking to edit this before going live with it, but you can find the existing content on the sidebar
+We're looking to edit this before going live with it, but you can find the existing ported content in [the "Existing" category](/existing)
 
 ## TODO
 
@@ -16,10 +16,7 @@ We're looking to edit this before going live with it, but you can find the exist
 
 This is a first-pass listing of existing content that we'd like to save
 
-- mission statement
-- pedalpalooza + posters
-- Breakfast on the Bridges
-- Move by Bike
+- pedalpalooza posters
 - history
 - bike racks
 
