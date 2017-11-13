@@ -14,11 +14,13 @@ We're looking to edit this before going live with it, but you can find the exist
 
 ### Need to port 
 
-This is a first-pass listing of existing content that we'd like to save
+- history (biz meetings, images, ride reports, etc)
 
-- pedalpalooza posters
-- history
-- bike racks
+### Needs review
+- rest of the "stuff" on the shift website
+- wnbr stuff?
+- safety?
+- get lit (probably ok to go away)
 
 ### Need to create content 
 - what is pedalpalooza and how to pedalpalooze
