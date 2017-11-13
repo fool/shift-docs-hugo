@@ -1,7 +1,15 @@
-baseURL = "http://shift-hugo-docs.netlify.com/"
+baseURL = "https://shift-docs.netlify.com/"
 languageCode = "en-us"
-title = "shift2bikes content"
+title = "shift2bikes website reboot"
 theme = "hugo-theme-learn"
+
+editURL = "/admin"
+description = "Shift website reboot documents"
+disableAssetsBusting = true # netlify doesn't need that
+
+
+
+
 
 # For search functionnality
 [outputs]
