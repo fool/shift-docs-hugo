@@ -41,7 +41,7 @@ Each year since 2004 we've commissioned art from local artists to use for poster
 # 2014 - [Gesine Kratzner](http://www.gesinekratzner.com/about/)
 ![2014 poster](/images/uploads/pp2014full.jpg?classes=shadow)
 
-# 2015 
+# 2015  -[Matt Gauck](http://mattgauck.com)
 ![2015 poster](/images/uploads/pp2015full.jpg?classes=shadow)
 
 # 2016 - Carla Bartow
